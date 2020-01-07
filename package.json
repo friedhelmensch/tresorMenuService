@@ -8,6 +8,7 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": { "node": "12.x" },
   "dependencies": {
     "node-fetch": "^2.6.0",
     "pdf2json": "^1.1.8"
