@@ -10,7 +10,7 @@
   "license": "ISC",
   "engines": { "node": "12.x" },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "pdf2json": "^1.1.8"
   }
 }
